@@ -1,0 +1,6 @@
+pyqt5
+pyinstaller
+openpyxl
+loguru
+uvicorn
+Flask
