@@ -3,4 +3,6 @@ pyinstaller
 openpyxl
 loguru
 uvicorn
-Flask
+fastapi
+uvicorn
+pydantic
